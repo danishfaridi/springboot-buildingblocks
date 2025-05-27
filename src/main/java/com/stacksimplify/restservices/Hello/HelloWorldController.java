@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 public class HelloWorldController {
     //Simple Method
-	// URI - /helloworld
+	// URI - /helloworld1
 	//GET - either @request or @get mapping
 	
 	//@RequestMapping(method = RequestMethod.GET, path="/helloworld")
